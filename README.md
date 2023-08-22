@@ -15,10 +15,11 @@ Python:
 # Installation 
 
 clone the repository :
+```
  git clone ...
  cd ..
 pip install -r requirements.txt
-
+```
 # Terraform Configuration
 ```
 aws configure
@@ -28,5 +29,7 @@ Region name: eu-central-1 #important
 Default output format: json #important
 ```
 # Model Initialization
+```
 $ python interact/inter.py generate_vpc
+```
 # Wait until you get the "done" console message. 
