@@ -1,0 +1,313 @@
+Overriding: out_dir = out-vpc-char
+Overriding: device = cpu
+number of parameters: 0.80M
+Loading meta from data\vpc_char\meta.pkl...
+
+  cidr_block = "10.24.0.0/16"
+  enable_dns_support = true
+  enable_dns_hostnames = true
+  tags = {
+    Name = "StapphireShoresVPC"
+  }
+}
+
+resource "aws_vpc" "creanenclave_ve_vpc" {
+  cidr_block = "10.27.0.0/16"
+  enable_dns_support = true
+  enable_dns_hostnames = true
+  tags = {
+    Name = "VPC4"
+  }
+}
+
+resource "aws_vpc" "vpc7" {
+  cidr_block = "10.5.0.0/16"
+  enable_dns_support = true
+  enable_dns_hostnamesVPC"
+  }
+}
+
+resource "aws_vpc" "ercantantelave_vpc" {
+  cidr_block = "10.134.0.0/16"
+  e
+---------------
+
+  cidr_block = "10.5.0.0/16"
+  enable_dns_suport = true
+  enable_dns_hostnameEnsost_vesurue
+  = "Vsururue
+  enable_dns_hostnales_hostnames = true
+  tags = {
+    Name = "EnchantedVPC"
+  }
+}
+
+resource "aws_vpc" "vpc1" {
+  cidr_block = "10.29.0.0/16"
+  enable_dns_support = true
+  enable_dns_hostnames = true
+  tags = {
+    Name = "VPC8"
+  }
+}
+
+resource "aws_vpc" "crystal_nighale_ve_vpc" {
+  cidr_block = "10.25.0.0/16"
+  enable_dns_support = true
+  enable_dns_hostnames = true
+  tags = {
+    Name = "V
+---------------
+
+  dns_hostnames = true
+  tags = {
+    Name = "VPC8"
+  }
+}
+
+resource "aws_vpc" "vpc3" {
+  cidr_block = "10.20.0.230.0.0/16"
+  enable_dns_support = true
+  enable_dns_hostnames = true
+  tags = {
+    Name = "ValhallaVPC"
+  }
+}
+
+
+resource "aws_vpc" "haland_gicws_vpc" {
+  cidr_block = "10.27.0.0/16"
+  enable_dns_support = true
+  enable_dns_hostnames = true
+  tags = {
+    Name = "AonclaveVPC"
+  {
+  }
+}
+}
+
+resource "aws_vpc" "halhalala_ve_vpc" {
+  cidr_block = "10.32.0.0/16"
+  enable_dns_support = true
+
+---------------
+
+
+   Name = "VPC1"
+  }
+}
+
+resource "aws_vpc" "vpc5" {
+  cidr_block = "10.39.0.0/16"
+  enable_dns_support = true
+  enable_dns_hostnames = true
+  tags = {
+    Name = "VPC2"
+  }
+}
+
+resource "aws_vpc" "vpc7" {
+  cidr_block = "10.29.0.0.0/16"
+  enable_dns_support = true
+  enable_dns_hostnames = true
+  tags = "VPC6"
+  }
+}
+
+resource "aws_vpc" "gicGrods_ve_vpc" {
+  cidr_block = "10.23.0.0/16"
+  enable_dns_support = true
+  enable_dns_hostnames = true
+  tags = {
+    Name = "VPC6"
+  }
+}
+
+resource "aws_vpc" 
+---------------
+
+  cidr_block = "10.15.0.0/16"
+  enable_dns_support = true
+  enable_dns_hostnames = true
+  tags = {
+   Name = "RealhorestGroveVPC"
+  }
+}
+
+resource "aws_vpc" "valhalla_ve_vpc" {
+  cidr_block = "10.7.0.0/16"
+  enable_dns_support = true
+  enable_dns_hostnames = true
+  tags = {
+    Name = "VPC8"
+  }
+}
+
+resource "aws_vpc" "enchanted_ven_vpc" {
+  cidr_block = "10.330.0.0/16"
+  enable_dns_support = true
+  enable_dns_hostnames = true
+  tags = {
+    Name = "VPC1"
+  }
+}
+
+resource "aws_vpc" "vpc6" {
+  cidr_
+---------------
+
+  tags = {
+    Name = "VPC1"
+  }
+}
+
+resource "aws_vpc" "azure_sky_vpc" "alla_vpc" {
+  cidr_block = "10.31.0.0/16"
+  enable_dns_support = true
+  enable_dns_hostnames = true
+  tags = {
+    Name = "ArcysVPC"
+  }
+}
+
+resource "aws_vpc" "enchantedVPasureSkyVPC"
+  }
+}
+
+resource "aws_vpc" "shores_vpc" {
+  cidr_block = "10.31.0.0/16"
+  enable_dns_support = true
+  enable_dns_hostnames = true
+  tags = {
+    Name = "OlysiumVPC"
+  }
+}
+
+resource "aws_vpc" "venchalHid_gla_vpc" {
+  cidr_block = "10.14.0.0/16"
+ 
+---------------
+
+   Name = "VPC2"
+  }
+}
+
+resource "aws_vpc" "apc7" {
+  cidr_block = "10.32.0.0/16"
+  enable_dns_support = true
+  enable_dns_hostnames = true
+  tags = {
+   Name = "VPC2"
+  }
+}
+
+resource "aws_vpc" "nchanted_cove_vpc" {
+  cidr_block = "10.34.0.0/16"
+  enable_dns_support = true
+  enable_dns_hostnames = true
+  tags = {
+    Name = "VPC3"
+  }
+}
+
+resource "aws_vpc" "vpc9" {
+  cidr_block = "10.330.0.0/16"
+  enable_dns_support = true
+  enable_dns_hostnames = true
+  tags = {
+    Name = "VPC5"
+  }
+}
+
+resourc
+---------------
+
+  cidr_block = "10.23.0.0/16"
+  enable_dns_support = true
+  enable_dns_hostnames = true
+  tags = {
+    Name = "VPC5"
+  }
+}
+
+resource "aws_vpc" "il_mysthorealadVPC"
+  }
+}
+
+resource "aws_vpc" "en_reshoreshores_vpc" {
+  cidr_block = "10.15.0.0/16"
+  enable_dns_support = true
+  enable_dns_hostnames = true
+  tags = {
+    Name = "VPC6"
+  }
+}
+
+resource "aws_vpc" "vpc4" {
+  cidr_block = "10.32.0.0/16"
+  enable_dnue_support = true
+  enable_dns_hostnames = true
+  tags = {
+    Name = "}
+ysiumVPC"
+  "aonder
+---------------
+
+resource "aws_vpc" "vpc4" {
+  cidr_block = "10.130.0.0/16"
+  enable_dns_support = true
+  enable_dns_hostnames = true
+  tags = {
+    Name = "VPC1"
+  }
+}
+
+resource "aws_vpc" "valhala_ve_vpc" {
+  cidr_block = "10.14.0.0/16"
+  enable_dns_support = true
+  enable_dns_hostnames = true
+  tags = {
+    Name = "VPC4"
+  }
+}
+
+resource "aws_vpc" "vpc5" {
+  cidr_block = "10.14.0.0/16"
+  enable_dns_support = true
+  enable_dns_hostnames = true
+  tags = {
+    Name = "VPC8"
+  }
+}
+
+resource "aws_vpc" "vpcCridr_bloc
+---------------
+
+  enable_dns_supost = true
+  enable_dns_hostnames = true
+  tags = {
+    Name = "EnchantedGrehoveVPC"
+  }
+}
+
+resource "aws_vpc" "vpc3" {
+  cidr_block = "10.24.0.0/16"
+  enable_dns_support = true
+  enable_dns_hostnames = true
+  tags = {
+    Name = "ForestalamestVPC"
+  }
+}
+
+resource "aws_vpc" "ysictal_wshores_vpc" {
+  cidr_block = "10.6.34.0.0/16"
+  enable_dns_support = true
+  enable_dns_hostnames = true
+  tags = {
+    Name = "VPC1"
+  }
+}
+
+resource "aws_vpc" "intergalactic_gac" {
+  cidr_block = "10
+---------------
